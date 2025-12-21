@@ -1,0 +1,55 @@
+{
+  "campaign_metadata": {
+    "N": "9",
+    "campaign_duration": "10 (days remaining only)",
+    "target_dana": "Rp900.000.000"
+  },
+  "total_donors_scraped": 9,
+  "donors": [
+    {
+      "name": "Malik",
+      "amount": "Rp5.000",
+      "time_ago": "5 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "7 bulan yang lalu"
+    },
+    {
+      "name": "RG",
+      "amount": "Rp20.000",
+      "time_ago": "9 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp500.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp25.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp25.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "2 tahun yang lalu"
+    }
+  ]
+}

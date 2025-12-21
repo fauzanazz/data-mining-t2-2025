@@ -1,0 +1,680 @@
+{
+  "campaign_metadata": {
+    "N": "134",
+    "campaign_duration": "0 (days remaining only)",
+    "target_dana": "Rp100.000.000"
+  },
+  "total_donors_scraped": 134,
+  "donors": [
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "3 hari yang lalu"
+    },
+    {
+      "name": "vivinurmas",
+      "amount": "Rp5.000",
+      "time_ago": "3 hari yang lalu"
+    },
+    {
+      "name": "dewi yuni rahmawati",
+      "amount": "Rp5.000",
+      "time_ago": "6 hari yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "17 hari yang lalu"
+    },
+    {
+      "name": "La Marlin Joe Janadi",
+      "amount": "Rp1.000",
+      "time_ago": "18 hari yang lalu"
+    },
+    {
+      "name": "Gilang Vienna",
+      "amount": "Rp15.000",
+      "time_ago": "18 hari yang lalu"
+    },
+    {
+      "name": "Hamba Allah",
+      "amount": "Rp2.000",
+      "time_ago": "19 hari yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "19 hari yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "20 hari yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp25.000",
+      "time_ago": "22 hari yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "23 hari yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "23 hari yang lalu"
+    },
+    {
+      "name": "s",
+      "amount": "Rp1.000",
+      "time_ago": "24 hari yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "25 hari yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "25 hari yang lalu"
+    },
+    {
+      "name": "Fatimah",
+      "amount": "Rp5.000",
+      "time_ago": "25 hari yang lalu"
+    },
+    {
+      "name": "ade",
+      "amount": "Rp2.000",
+      "time_ago": "25 hari yang lalu"
+    },
+    {
+      "name": "Hamba Allah",
+      "amount": "Rp2.000",
+      "time_ago": "25 hari yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp15.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Ema Febrianti",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Rafly Yuliansyah",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "vina",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Mohamad Nurcahyo T A",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Akara Kafeel",
+      "amount": "Rp10.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Hamba Allah",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "tian kumala sucianingrum",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Merry Dwi Ning Tyas",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Siti Nur Latipah",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Nurdiatmojo",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "hai",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Masykur Ali",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "lyly lestari",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Fitri Karolina Fatima",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "lutfiah legita",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "lyly lestari",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Mgberry mommyF2",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Dikasih Bunga",
+      "amount": "Rp25.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Indri Suprapti",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Nopi Putriyani",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "lillahi ta'ala",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp250.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Sri Rahayu",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Andi Zulfikri",
+      "amount": "Rp4.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp15.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Febiyan Nurita",
+      "amount": "Rp15.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Titin Wahyuningsih",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp3.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Annisa Safitri Ramadhani",
+      "amount": "Rp20.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp20.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp3.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp25.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "dwi",
+      "amount": "Rp10.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Dimas Yudha Pratama",
+      "amount": "Rp50.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp3.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "ade",
+      "amount": "Rp4.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "ilhamrachmat setiawan",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Lathifanisa Kamil",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Mgberry mommyF2",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "nisa aulia",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "kukuh tondoyekti",
+      "amount": "Rp2.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Dewy Septerina Damopolii",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "hz6v5yh6kj",
+      "amount": "Rp10.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp20.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "rina siska",
+      "amount": "Rp5.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "alfian yudha prakoso",
+      "amount": "Rp1.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Hanifah",
+      "amount": "Rp10.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "vnc6m7567n",
+      "amount": "Rp25.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp3.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "rani mahardika daud",
+      "amount": "Rp10.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Hamba ALLAH",
+      "amount": "Rp20.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Ameliani Rahayu",
+      "amount": "Rp1.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp3.000",
+      "time_ago": "2 bulan yang lalu"
+    }
+  ]
+}

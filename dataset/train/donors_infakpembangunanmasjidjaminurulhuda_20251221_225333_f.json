@@ -1,0 +1,120 @@
+{
+  "campaign_metadata": {
+    "N": "22",
+    "campaign_duration": "10 (days remaining only)",
+    "target_dana": "Rp500.000.000"
+  },
+  "total_donors_scraped": 22,
+  "donors": [
+    {
+      "name": "Wisnu Dewantara",
+      "amount": "Rp20.000",
+      "time_ago": "23 hari yang lalu"
+    },
+    {
+      "name": "Wisnu Dewantara",
+      "amount": "Rp25.000",
+      "time_ago": "sebulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "2 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp3.000",
+      "time_ago": "4 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "6 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp15.000",
+      "time_ago": "8 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "9 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "10 bulan yang lalu"
+    },
+    {
+      "name": "Hendra Pati Agung",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp15.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp25.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp25.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "2 tahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "2 tahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "2 tahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "2 tahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "2 tahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "2 tahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "2 tahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "3 tahun yang lalu"
+    }
+  ]
+}

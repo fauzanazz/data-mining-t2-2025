@@ -1,0 +1,25 @@
+{
+  "campaign_metadata": {
+    "N": "3",
+    "campaign_duration": "0 (days remaining only)",
+    "target_dana": "Rp20.000.000"
+  },
+  "total_donors_scraped": 3,
+  "donors": [
+    {
+      "name": "Orang Baik",
+      "amount": "Rp100.000",
+      "time_ago": "2 tahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp20.000",
+      "time_ago": "2 tahun yang lalu"
+    },
+    {
+      "name": "Danu tri laksono",
+      "amount": "Rp10.000",
+      "time_ago": "2 tahun yang lalu"
+    }
+  ]
+}

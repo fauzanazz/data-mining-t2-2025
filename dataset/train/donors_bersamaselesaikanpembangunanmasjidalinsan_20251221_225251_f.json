@@ -1,0 +1,410 @@
+{
+  "campaign_metadata": {
+    "N": "80",
+    "campaign_duration": "328 (days remaining only)",
+    "target_dana": "Rp300.000.000"
+  },
+  "total_donors_scraped": 80,
+  "donors": [
+    {
+      "name": "Daviq Zacky Romly",
+      "amount": "Rp20.777",
+      "time_ago": "8 bulan yang lalu"
+    },
+    {
+      "name": "RG",
+      "amount": "Rp20.000",
+      "time_ago": "9 bulan yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Diana Chen Wandin",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "koko",
+      "amount": "Rp50.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Rezeki Grafis",
+      "amount": "Rp15.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Hamba Allah",
+      "amount": "Rp100.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp25.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp30.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp22.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Hamba Allah",
+      "amount": "Rp50.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp200.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Ali",
+      "amount": "Rp30.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Hamba allah",
+      "amount": "Rp1.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp50.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp3.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Yani Siswoko",
+      "amount": "Rp3.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Muh. Koharrudin Hidayat",
+      "amount": "Rp25.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "RENTAS.ID",
+      "amount": "Rp600.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp20.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp3.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Zikri Nurzani",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Taufiqur Rohman",
+      "amount": "Rp1.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Arief",
+      "amount": "Rp30.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Warga blok D",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Embeenal",
+      "amount": "Rp100.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "nyumbang nyambung terus",
+      "amount": "Rp2.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Faizal Riza",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Dwi Azah K",
+      "amount": "Rp12.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Resi tri utami",
+      "amount": "Rp15.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp7.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp3.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Bismillah",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp25.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp2.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp15.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Ningrat",
+      "amount": "Rp50.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp20.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp1.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Rizki Insani",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Meiry Utami",
+      "amount": "Rp8.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "sarib",
+      "amount": "Rp1.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Ovika",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp5.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Eko Himawan",
+      "amount": "Rp15.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp25.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Intan Puspita Dewi",
+      "amount": "Rp10.000",
+      "time_ago": "setahun yang lalu"
+    },
+    {
+      "name": "Orang Baik",
+      "amount": "Rp100.000",
+      "time_ago": "setahun yang lalu"
+    }
+  ]
+}

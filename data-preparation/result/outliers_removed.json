@@ -1,0 +1,126 @@
+{
+  "total_original": 80,
+  "total_removed": 19,
+  "total_clean": 61,
+  "removal_percentage": 23.75,
+  "removed_by_reason": {
+    "extreme_target": 2,
+    "zero_duration": 17
+  },
+  "outliers": [
+    {
+      "campaign": "donors_infaqmasjidumarayn_20251221_225538_f.json",
+      "reason": "extreme_target",
+      "target_donation": 2500000000000.0,
+      "n": 1648
+    },
+    {
+      "campaign": "donors_pembangunanmasjidalbina_20251221_111709.json",
+      "reason": "extreme_target",
+      "target_donation": 2500000000000.0,
+      "n": 1590
+    },
+    {
+      "campaign": "donors_amaljariyahpembangunanmasjidnurulhuda_20251221_225147_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 72
+    },
+    {
+      "campaign": "donors_baitulmaalpasuruan_20251221_225214_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 673
+    },
+    {
+      "campaign": "donors_bangunmasjidpelosok25_20251221_113953.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 1250
+    },
+    {
+      "campaign": "donors_bantupembangunanmasjiddarulmuhsinin_20251221_225228_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 36
+    },
+    {
+      "campaign": "donors_dukungbangunmasjid_20251221_225409_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 731
+    },
+    {
+      "campaign": "donors_galangdanapembangunanrenovasimasjid_20251221_225332_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 49
+    },
+    {
+      "campaign": "donors_hadiahuntukpejuangnafkah_20251221_225406_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 299
+    },
+    {
+      "campaign": "donors_masjidpelosoktimur_20251221_102949.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 5204
+    },
+    {
+      "campaign": "donors_pembangunanaladamtasik_20251221_090946.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 481
+    },
+    {
+      "campaign": "donors_pembangunanalfathjourney_20251221_225549_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 134
+    },
+    {
+      "campaign": "donors_pembangunanalhikmahbandarlampung_20251221_112615.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 1040
+    },
+    {
+      "campaign": "donors_pembangunanlantai2masjidalamin_20251221_225549_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 101
+    },
+    {
+      "campaign": "donors_pembangunanmasjidalhidayahgarut_20251221_225547_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 35
+    },
+    {
+      "campaign": "donors_pembangunanmasjidpemudamandiri_20251221_112739.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 150
+    },
+    {
+      "campaign": "donors_pembangunanmasjidtamanbarukemeranggen_20251221_225604_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 3
+    },
+    {
+      "campaign": "donors_sedekahbangunmushollaalikhlas_20251221_225657_f.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 691
+    },
+    {
+      "campaign": "donors_sedekahmasjidpantaibali_20251221_124938.json",
+      "reason": "zero_duration",
+      "duration": 0,
+      "n": 1851
+    }
+  ]
+}

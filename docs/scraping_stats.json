@@ -1,0 +1,20 @@
+{
+  "total": 56,
+  "success": 53,
+  "failed": 3,
+  "time_minutes": 97.32617888053258,
+  "failed_list": [
+    [
+      "ayosedekahjariyah",
+      "Message: \nStacktrace:\n0   chromedriver                        0x000000010487cb2c cxxbridge1$str$ptr + 3033596\n1   chromedriver                        0x0000000104874b30 cxxbridge1$str$ptr + 3000832\n2   chromedriver                        0x000000010436eb0c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196\n3   chromedriver                        0x00000001043b59c8 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 364688\n4   chromedriver                        0x00000001043f6968 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832\n5   chromedriver                        0x00000001043aa16c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492\n6   chromedriver                        0x0000000104840098 cxxbridge1$str$ptr + 2785128\n7   chromedriver                        0x0000000104843804 cxxbridge1$str$ptr + 2799316\n8   chromedriver                        0x0000000104820850 cxxbridge1$str$ptr + 2656032\n9   chromedriver                        0x0000000104844074 cxxbridge1$str$ptr + 2801476\n10  chromedriver                        0x00000001048111cc cxxbridge1$str$ptr + 2592924\n11  chromedriver                        0x0000000104863cb4 cxxbridge1$str$ptr + 2931588\n12  chromedriver                        0x0000000104863e34 cxxbridge1$str$ptr + 2931972\n13  chromedriver                        0x0000000104874788 cxxbridge1$str$ptr + 2999896\n14  libsystem_pthread.dylib             0x0000000198877c0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x0000000198872b80 thread_start + 8\n"
+    ],
+    [
+      "masjiddanasrama",
+      "Message: \nStacktrace:\n0   chromedriver                        0x000000010552cb2c cxxbridge1$str$ptr + 3033596\n1   chromedriver                        0x0000000105524b30 cxxbridge1$str$ptr + 3000832\n2   chromedriver                        0x000000010501eb0c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 74196\n3   chromedriver                        0x00000001050659c8 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 364688\n4   chromedriver                        0x00000001050a6968 _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 630832\n5   chromedriver                        0x000000010505a16c _RNvCsgXDX2mvAJAg_7___rustc35___rust_no_alloc_shim_is_unstable_v2 + 317492\n6   chromedriver                        0x00000001054f0098 cxxbridge1$str$ptr + 2785128\n7   chromedriver                        0x00000001054f3804 cxxbridge1$str$ptr + 2799316\n8   chromedriver                        0x00000001054d0850 cxxbridge1$str$ptr + 2656032\n9   chromedriver                        0x00000001054f4074 cxxbridge1$str$ptr + 2801476\n10  chromedriver                        0x00000001054c11cc cxxbridge1$str$ptr + 2592924\n11  chromedriver                        0x0000000105513cb4 cxxbridge1$str$ptr + 2931588\n12  chromedriver                        0x0000000105513e34 cxxbridge1$str$ptr + 2931972\n13  chromedriver                        0x0000000105524788 cxxbridge1$str$ptr + 2999896\n14  libsystem_pthread.dylib             0x0000000198877c0c _pthread_start + 136\n15  libsystem_pthread.dylib             0x0000000198872b80 thread_start + 8\n"
+    ],
+    [
+      "bangunanmasjidmangkrak",
+      "Message: Service /Users/enjat/.wdm/drivers/chromedriver/mac64/143.0.7499.169/chromedriver-mac-arm64/chromedriver unexpectedly exited. Status code was: -9\n"
+    ]
+  ]
+}

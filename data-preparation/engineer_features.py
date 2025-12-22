@@ -2,10 +2,12 @@
 """
 Feature Engineering: Add Domain-Specific Features
 
-Adds 3 new features:
-1. donation_concentration (p1 value) - High p1 correlates with high error
-2. log_target_per_donor - Campaign ambition relative to donor base
-3. log_duration - Normalized duration for better stability
+Adds 2 new features:
+1. log_target_per_donor - Campaign ambition relative to donor base
+2. log_duration - Normalized duration for better stability
+
+NOTE: Removed donation_concentration (p1) to fix data leakage issue.
+      p1 is a target variable, not a predictor!
 """
 
 import pandas as pd
@@ -18,8 +20,8 @@ print("=" * 80)
 print()
 
 # Configuration
-INPUT_FILE = Path('data-preparation/data_preparation_clean.csv')
-OUTPUT_FILE = Path('data-preparation/data_preparation_features.csv')
+INPUT_FILE = Path('data-preparation/result/data_preparation_clean.csv')
+OUTPUT_FILE = Path('data-preparation/result/data_preparation_features.csv')
 
 # Load cleaned data
 print(f"Loading: {INPUT_FILE}")
@@ -35,34 +37,10 @@ for col in ['n', 'current_duration', 'target_donation', 'p1', 'p2', 'p3', 'p4', 
 print()
 
 # ============================================================================
-# FEATURE 1: Donation Concentration (p1 level)
+# FEATURE 1: Log(Target / N) - Target per Donor Ratio
 # ============================================================================
 
-print("FEATURE 1: Donation Concentration")
-print("-" * 80)
-
-df['donation_concentration'] = df['p1']
-
-print(f"  Formula: donation_concentration = p1")
-print(f"  Range:   {df['donation_concentration'].min():.3f} - {df['donation_concentration'].max():.3f}")
-print(f"  Median:  {df['donation_concentration'].median():.3f}")
-print()
-
-print("  Business Logic:")
-print("    - High p1 (>0.95): Many small donors → lower EV per donor")
-print("    - Low p1 (<0.7):  More large donors → higher EV per donor")
-print()
-
-print("  Why it helps:")
-print("    - High p1 campaigns currently have 524% error (systematic over-prediction)")
-print("    - This feature allows model to adjust for donation concentration")
-print()
-
-# ============================================================================
-# FEATURE 2: Log(Target / N) - Target per Donor Ratio
-# ============================================================================
-
-print("FEATURE 2: Log Target Per Donor")
+print("FEATURE 1: Log Target Per Donor")
 print("-" * 80)
 
 target_per_donor = df['target_donation'] / df['n']
@@ -84,10 +62,10 @@ print("    - Captures campaign feasibility/ambition level")
 print()
 
 # ============================================================================
-# FEATURE 3: Log(Duration) - Normalized Duration
+# FEATURE 2: Log(Duration) - Normalized Duration
 # ============================================================================
 
-print("FEATURE 3: Log Duration")
+print("FEATURE 2: Log Duration")
 print("-" * 80)
 
 df['log_duration'] = np.log1p(df['current_duration'])
@@ -114,7 +92,7 @@ print()
 print("FEATURE VALIDATION:")
 print("-" * 80)
 
-new_features = ['donation_concentration', 'log_target_per_donor', 'log_duration']
+new_features = ['log_target_per_donor', 'log_duration']
 all_valid = True
 
 for feat in new_features:
@@ -157,13 +135,12 @@ print("    - n (donors)")
 print("    - current_duration (days)")
 print("    - target_donation (Rupiah)")
 print()
-print("  New features (3):")
-print("    - donation_concentration (p1 level)")
+print("  New features (2):")
 print("    - log_target_per_donor (campaign ambition)")
 print("    - log_duration (normalized time)")
 print()
-print("  Probability features (5):")
-print("    - p1, p2, p3, p4, p5 (bin distributions)")
+print("  Target variables (5):")
+print("    - p1, p2, p3, p4, p5 (bin distributions - NOT features!)")
 print()
 
 print("=" * 80)

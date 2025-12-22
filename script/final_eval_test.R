@@ -15,9 +15,9 @@ cat("╚", strrep("═", 78), "╝\n\n", sep="")
 # ============================================================================
 
 CONFIG <- list(
-  model_file = "data-preparation/improved_dirichlet_model.rds",
-  eval_data_file = "data-preparation/data_preparation_eval_result.csv",
-  output_file = "data-preparation/final_eval_results.csv",
+  model_file = "data-preparation/result/improved_dirichlet_model.rds",
+  eval_data_file = "data-preparation/result/data_preparation_eval_result.csv",
+  output_file = "data-preparation/result/final_eval_results.csv",
   bin_values = c(3000, 20000, 50000, 100000, 350000),
   platform_fee = 0.05
 )
@@ -324,7 +324,7 @@ final_summary <- list(
   bin_values = CONFIG$bin_values
 )
 
-saveRDS(final_summary, "data-preparation/final_eval_summary.rds")
+saveRDS(final_summary, "data-preparation/result/final_eval_summary.rds")
 cat("✓ Summary saved\n\n")
 
 # ============================================================================

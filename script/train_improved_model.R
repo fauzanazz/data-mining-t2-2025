@@ -15,8 +15,8 @@ cat("╚", strrep("═", 78), "╝\n\n", sep="")
 # ============================================================================
 
 CONFIG <- list(
-  data_file = "data-preparation/data_preparation_features.csv",
-  output_model = "data-preparation/improved_dirichlet_model.rds",
+  data_file = "data-preparation/result/data_preparation_features.csv",
+  output_model = "data-preparation/result/improved_dirichlet_model.rds",
   val_split = 0.20,
   seed = 42
 )
@@ -69,12 +69,9 @@ cat(strrep("=", 78), "\n")
 cat("STEP 2: Feature Selection Strategy\n")
 cat(strrep("=", 78), "\n\n")
 
-# Define 6 feature combinations
+# Define 4 feature combinations (removed sets with donation_concentration - data leakage!)
 feature_sets <- list(
   base = c("n", "current_duration", "target_donation"),
-
-  base_p1 = c("n", "current_duration", "target_donation",
-              "donation_concentration"),
 
   base_ratio = c("n", "current_duration", "target_donation",
                  "log_target_per_donor"),
@@ -82,11 +79,8 @@ feature_sets <- list(
   base_duration = c("n", "current_duration", "target_donation",
                     "log_duration"),
 
-  base_p1_ratio = c("n", "current_duration", "target_donation",
-                    "donation_concentration", "log_target_per_donor"),
-
   all_features = c("n", "current_duration", "target_donation",
-                   "donation_concentration", "log_target_per_donor", "log_duration")
+                   "log_target_per_donor", "log_duration")
 )
 
 cat("Feature combinations to test:\n")
@@ -154,10 +148,7 @@ for (set_name in names(feature_sets)) {
       DirichReg(Y ~ n + current_duration + target_donation,
                data = predictors, model = "alternative")
     } else if (length(features) == 4) {
-      if ("donation_concentration" %in% features) {
-        DirichReg(Y ~ n + current_duration + target_donation + donation_concentration,
-                 data = predictors, model = "alternative")
-      } else if ("log_target_per_donor" %in% features) {
+      if ("log_target_per_donor" %in% features) {
         DirichReg(Y ~ n + current_duration + target_donation + log_target_per_donor,
                  data = predictors, model = "alternative")
       } else {
@@ -166,11 +157,7 @@ for (set_name in names(feature_sets)) {
       }
     } else if (length(features) == 5) {
       DirichReg(Y ~ n + current_duration + target_donation +
-                   donation_concentration + log_target_per_donor,
-               data = predictors, model = "alternative")
-    } else {
-      DirichReg(Y ~ n + current_duration + target_donation +
-                   donation_concentration + log_target_per_donor + log_duration,
+                   log_target_per_donor + log_duration,
                data = predictors, model = "alternative")
     }
   }, error = function(e) {

@@ -14,9 +14,9 @@ cat("╚", strrep("═", 78), "╝\n\n", sep="")
 # ============================================================================
 
 CONFIG <- list(
-  model_file = "data-preparation/improved_dirichlet_model.rds",
-  data_file = "data-preparation/data_preparation_features.csv",
-  output_file = "data-preparation/improved_mape_results.csv",
+  model_file = "data-preparation/result/improved_dirichlet_model.rds",
+  data_file = "data-preparation/result/data_preparation_features.csv",
+  output_file = "data-preparation/result/improved_mape_results.csv",
   bin_values = c(3000, 20000, 50000, 100000, 350000),
   platform_fee = 0.05,
   val_split = 0.20,
@@ -228,7 +228,7 @@ summary_data <- list(
   high_p1_mape = if (nrow(high_p1) > 0) mean(high_p1$error_percentage) else NA
 )
 
-saveRDS(summary_data, "data-preparation/improved_model_summary.rds")
+saveRDS(summary_data, "data-preparation/result/improved_model_summary.rds")
 cat("✓ Summary saved\n\n")
 
 # ============================================================================
